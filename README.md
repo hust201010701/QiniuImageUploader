@@ -9,5 +9,5 @@
 ##界面
 这张图片也是通过软件自动上传生成的外链哦
 
-![](http://lxctest.qiniudn.com/2016-10-26_12:33:07_QQ截图20161026123244.jpg?imageView2/0/w/600)
+![](http://lxctest.qiniudn.com/2016-10-26_12:38:39_QQ截图20161026123244.jpg?imageView2/0/w/600)
 
